@@ -1,0 +1,46 @@
+h1{
+    color:hsl(334, 79%, 32%);
+    font-size:48px;
+    background-color:#424246;
+    border:5px solid black 
+}
+h2{
+    color:hsl(335, 82%, 36%);
+    font-size:40px;
+    background-color:#424246;
+    border:4px solid black 
+}
+h3{
+    color:hsl(335, 82%, 36%);
+    font-size:30px;
+    background-color:#424246;
+    border:4px solid black 
+}
+p{
+    color:#9618df;
+}
+div{
+    font-size:16px;
+    color: #9618df;
+    background-color:#8b8b91;
+    border:2px solid black
+}
+#important{
+    font-size:28px;
+    background-color:#424246;
+    border:2px solid black
+}
+.info{
+    font-size:16px;
+    color: #9618df;
+    background-color:#424246;
+    border:2px solid black
+}
+
+
+
+
+
+
+
+
