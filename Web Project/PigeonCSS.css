@@ -21,7 +21,7 @@ h2{
     border-radius:3px; 
     text-align: center;
     width: 70%;
-    margin: auto;
+    margin: 5px auto;
     
     
 }
@@ -33,7 +33,7 @@ h3{
     border-radius:3px; 
     text-align: center;
     width: 40%;
-    margin: auto;
+    margin: 1px auto;
     
 }
 p{
@@ -43,7 +43,7 @@ p{
     border:2px solid black;
     border-radius:2px; 
     width: 90%;
-    margin: auto;
+    margin: 5px auto;
     padding: 8px;
 }
 div{
@@ -58,7 +58,7 @@ a{
     background-color:#424246;
     text-align: center;
     width: 85%;
-    margin: auto;
+    margin: 5px auto;
     border:3px solid black;
     border-radius:3px; 
     padding: 3px;
@@ -70,7 +70,7 @@ a{
     border-radius:3px; 
     text-align: center;
     width: 90%;
-    margin: auto;
+    margin: 5px auto;
     padding: 8px;
 }
 .info{
@@ -80,7 +80,7 @@ a{
     border:2px solid black;
     border-radius:2px; 
     width: 90%;
-    margin: auto;
+    margin: 5px auto;
     padding: 8px;
 }
 .othercentered{
@@ -91,7 +91,7 @@ a{
     border-radius:2px; 
     text-align: center;
     width: 60%;
-    margin: auto;
+    margin: 5px auto;
     padding: 8px;
 }
 img{
